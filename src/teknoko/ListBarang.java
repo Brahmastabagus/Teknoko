@@ -22,9 +22,9 @@ import javax.swing.RowFilter;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 import javax.swing.text.JTextComponent;
-import static teknoko.frTransaksi.txtHarga;
-import static teknoko.frTransaksi.txtKode;
-import static teknoko.frTransaksi.txtNama;
+import static teknoko.Transaksi.txtHarga;
+import static teknoko.Transaksi.txtKode;
+import static teknoko.Transaksi.txtNama;
 
 /**
  *
